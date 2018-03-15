@@ -3,13 +3,14 @@ package nguyen.zylin.btvn_tuan3.Model;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
+import java.io.Serializable;
 import java.util.List;
 
 /**
  * Created by nmdli on 14-Mar-18.
  */
 
-public class ResultModel {
+public class ResultModel implements Serializable {
     @SerializedName("vote_count")
     @Expose
     private Integer voteCount;
