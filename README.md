@@ -6,3 +6,6 @@ Nguyễn Mai Duy Linh	1420069</br>
 Ngô Văn Minh	1420079</br>
 Phạm Minh Luân	1420213</br>
 Nguyễn Thanh Mến	1420078</p>
+
+Màn hình demo ứng dụng</br>
+![Màn hình demo ứng dụng](https://github.com/cuongurchini/BTVN2/blob/master/BTVN2.gif?raw=true)
